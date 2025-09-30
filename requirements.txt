@@ -1,0 +1,5 @@
+pyqt5
+openpyxl
+xlrd
+pywin32
+pyinstaller
